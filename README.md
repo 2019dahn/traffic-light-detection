@@ -4,7 +4,8 @@ Detects traffic light and determines which color it is.
 
 Only available in Edge TPU.
 
-<img width="768" alt="image" src="https://github.com/2019dahn/traffic-light-detection/assets/105447127/37915c34-4be0-4921-b38d-3d264ba2d64d">
+<img width="793" alt="image" src="https://github.com/2019dahn/traffic-light-detection/assets/105447127/fb4f303a-aeff-4640-92b0-cc2f0af1858d">
+
 
 ### 1. Detection 🧐
 
@@ -28,6 +29,7 @@ Used traditional vision techniques for better operation speed.
 
 ## Demo
 
-![demo (1)](https://github.com/2019dahn/traffic-light-detection/assets/105447127/24dfe893-4a1b-4560-9614-25bb37ceccf5)
+![demo (1)](https://github.com/2019dahn/traffic-light-detection/assets/105447127/abb5ffda-9b01-455b-a77d-92e7da93ef94)
+
 
 
